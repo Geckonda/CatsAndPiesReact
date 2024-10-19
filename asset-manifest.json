@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CatsAndPiesReact/static/css/main.3d4f34eb.css",
+    "main.js": "/CatsAndPiesReact/static/js/main.edc0ba25.js",
+    "static/js/453.a5294202.chunk.js": "/CatsAndPiesReact/static/js/453.a5294202.chunk.js",
+    "index.html": "/CatsAndPiesReact/index.html",
+    "main.3d4f34eb.css.map": "/CatsAndPiesReact/static/css/main.3d4f34eb.css.map",
+    "main.edc0ba25.js.map": "/CatsAndPiesReact/static/js/main.edc0ba25.js.map",
+    "453.a5294202.chunk.js.map": "/CatsAndPiesReact/static/js/453.a5294202.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d4f34eb.css",
+    "static/js/main.edc0ba25.js"
+  ]
+}
